@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363207529262",
+    "project_id": "nutria-4c684",
+    "storage_bucket": "nutria-4c684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363207529262:android:db7eb04a43321e574960bf",
+        "android_client_info": {
+          "package_name": "com.rover.curiosity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363207529262-q4ddm0pgspmb7883h2bveqilh5c8784l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjq6YWa6comFILt6yLCvJQljo3aPGbjUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363207529262-q4ddm0pgspmb7883h2bveqilh5c8784l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
